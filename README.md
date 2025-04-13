@@ -20,7 +20,7 @@
 - [Development](#development)
 - [Credits](#credits)
 
-## Description
+## Description 1
 
 Combines streams from other addons into one and provides much greater customisation:
 
